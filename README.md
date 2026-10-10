@@ -43,7 +43,7 @@ Maven normally requires JDK to be able to execute make sure its installed.
 <img width="786" height="233" alt="image" src="https://github.com/user-attachments/assets/efdbd07c-d0f4-4bef-a54e-b8cf439ad7d0" />  
 
   
-Select the binary zip archive 
+Select the binary zip archive  
 <img width="762" height="500" alt="image" src="https://github.com/user-attachments/assets/a5235cec-38df-484e-9813-1583716649ea" />  
 
 Then after the dowload go to the Maven folder where the zip is downloaded  
