@@ -31,8 +31,9 @@ Also create or if you already have change the java home path (we need to create 
 <img width="557" height="618" alt="image" src="https://github.com/user-attachments/assets/553966ea-394b-4230-ae3a-065e455cdd00" />
 
 Then you can confirm on the command line with java --version to confirm that java was properly installed  
+<img width="992" height="276" alt="image" src="https://github.com/user-attachments/assets/14493abe-15ad-42f0-8fe4-b8fbf63cea6a" />
 
-<img width="1511" height="312" alt="image" src="https://github.com/user-attachments/assets/44984626-e78f-4840-bf1f-8090c703e0f7" />
+
 
 
 # Install Maven
