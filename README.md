@@ -61,7 +61,8 @@ Now we need to set the MAVEN_HOME variable like the java one. (remove the \bin)
 <img width="547" height="251" alt="image" src="https://github.com/user-attachments/assets/4b11972b-a6cc-45d7-9af3-ef9d6309dafe" />
 
 Verify maven is installed with mvn --version  
-<img width="1476" height="727" alt="image" src="https://github.com/user-attachments/assets/d4e1d9a9-49fe-4cc7-83dc-e3e3f130a0b0" />
+<img width="1477" height="323" alt="image" src="https://github.com/user-attachments/assets/f9441ce0-7a2c-42cc-9d52-f64516932338" />
+
 
 
 
